@@ -10,6 +10,8 @@ unzip epraccur.zip
 
 grep  "HURLEY GROUP" > hurleygps.csv
 
+added first names manually where discoverable via google
+
 # resources
 
 see resources.md
