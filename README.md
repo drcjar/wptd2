@@ -17,6 +17,9 @@ https://github.com/drcjar/wptd2/blob/master/wptd-opencorporates.ipynb
 
 discovery that names are not unique identifiers
 
+see 
+https://github.com/who-pays-your-doctor/whopaysthisdoctor.org
+
 refined UI
 
 added feature to declare something on someone
