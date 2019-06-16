@@ -15,6 +15,14 @@ added first names manually where discoverable via google
 fetch results from open corporates for names in our hurleygps csv and save result as a json
 https://github.com/drcjar/wptd2/blob/master/wptd-opencorporates.ipynb
 
+discovery that names are not unique identifiers
+
+refined UI
+
+added feature to declare something on someone
+
+import directorships from opencorporates
+
 # resources
 
 see resources.md
